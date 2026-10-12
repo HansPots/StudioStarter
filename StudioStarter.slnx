@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StudioStarter.Core/StudioStarter.Core.csproj" />
+    <Project Path="src/StudioStarter.Desktop/StudioStarter.Desktop.csproj" />
+    <Project Path="src/StudioStarter.Infrastructure/StudioStarter.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/StudioStarter.SmokeTests/StudioStarter.SmokeTests.csproj" />
+  </Folder>
+</Solution>
